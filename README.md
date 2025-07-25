@@ -42,7 +42,7 @@ The visualization of different types of Tanh-based Chaotic Neuro-Oscillators. Al
 </div>
 <p></p>
 
-The visualization of membership function (**Row 1**) and the designed fuzzy rule (**Row 2**) in our fuzzy logic trading strategy (:heavy_multiplication_x: is the meaningless rule).
+The visualization of membership function (**Row 1**) and the designed fuzzy rule (**Row 2**) in our fuzzy logic trading strategy (`X` is the meaningless rule).
 
 ## :clapper: Results
 <p align="center"></p>
