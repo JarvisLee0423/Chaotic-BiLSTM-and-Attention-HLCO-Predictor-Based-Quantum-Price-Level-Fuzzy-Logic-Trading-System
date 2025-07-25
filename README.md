@@ -152,7 +152,7 @@ If you find our works useful in your research, please consider citing our paper.
 }
 ```
 
-**Hint**: We also implement a Transformer version of the Chaotic HLCO Predictor in [https://github.com/JarvisLee0423/Chaotic-Quantum-Finance-Trading-System-with-Transformer](https://github.com/JarvisLee0423/Chaotic-Quantum-Finance-Trading-System-with-Transformer), please feel free to check the code. `However, this code is not well-verified by us yet`.
+**Hint**: We also implement a Transformer version of the Chaotic HLCO Predictor in [https://github.com/JarvisLee0423/Chaotic-Quantum-Finance-Trading-System-with-Transformer](https://github.com/JarvisLee0423/Chaotic-Quantum-Finance-Trading-System-with-Transformer). Please feel free to check the code. `However, this code is not well-verified by us yet`.
 
 ## Acknowledgements
 This paper was supported by Research Grant R202008 of Beijing Normal University-Hong Kong Baptist University United International College (UIC) and Key Laboratory for Artificial Intelligence and Multi-Model Data Processing of Department of Education of Guangdong Province.
