@@ -3,7 +3,7 @@ This repository contains the source code for our paper.
 
 **Chaotic Bi-LSTM and Attention HLCO Predictor Based Quantum Price Level Fuzzy Logic Trading System**
 <a href="https://www.researchsquare.com/article/rs-1819548/latest.pdf">
-    <img src="Figs/springer.png" alt="springer" style="width: 5%;">
+    <img src="Figs/springer.png" alt="springer" style="width: 10%;">
 </a>
 
 Jiahao LI, Zihao Huang, Lirong Lin, Yuchen Guo, Raymond Lee
