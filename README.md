@@ -1,4 +1,4 @@
-# :balance_scale: Chaotic Quantum Finance Trading System (Soft Computing 2023 Springer) :balance_scale:
+# :balance_scale: Chaotic Quantum Finance Trading System (Soft Computing 2023) :balance_scale:
 This repository contains the source code for our paper.
 
 **Chaotic Bi-LSTM and Attention HLCO Predictor Based Quantum Price Level Fuzzy Logic Trading System**
