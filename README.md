@@ -131,7 +131,7 @@ pip install -r requirements.txt
     More details please check the sub-routines in the FLStrategy.mq4 file.
 
 # :books: Training
-**Warning**: Before you train the model please ensure that you open the visdom server by following the code `python -m visdom.server`.
+[!Warning]: Before you train the model please ensure that you open the visdom server by following the code `python -m visdom.server`.
 
 ```Shell
 python Trainer.py
