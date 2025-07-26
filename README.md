@@ -98,7 +98,7 @@ pip install -r requirements.txt
 - `hiddenSize` is the hidden size for the LSTM unit.
 - `outputSize` is the output size for the LSTM unit.
 
-**Warning**: Please do not change the value of the inputSize and outputSize.
+<span style="color: red;"> :warning: [!Warning]: Please do not change the value of the inputSize and outputSize. </span>
 
 - `learningRate` is the lr for gradient descent.
 - `momentum` is the momentum for gradient descent.
