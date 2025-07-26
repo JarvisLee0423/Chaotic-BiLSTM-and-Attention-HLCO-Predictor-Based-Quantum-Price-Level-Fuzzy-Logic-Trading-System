@@ -98,7 +98,7 @@ pip install -r requirements.txt
 - `hiddenSize` is the hidden size for the LSTM unit.
 - `outputSize` is the output size for the LSTM unit.
 
-<span style="color: red;"> :warning: [!Warning]: Please do not change the value of the inputSize and outputSize. </span>
+:warning: **Warning: Please do not change the value of the inputSize and outputSize.**
 
 - `learningRate` is the lr for gradient descent.
 - `momentum` is the momentum for gradient descent.
@@ -131,7 +131,7 @@ pip install -r requirements.txt
     More details please check the sub-routines in the FLStrategy.mq4 file.
 
 # :books: Training
-<span style="color: red;"> :warning: [!Warning]: Before you train the model please ensure that you open the visdom server by following the code `python -m visdom.server`. </span>
+:warning: **Warning: Before you train the model please ensure that you open the visdom server by following the code `python -m visdom.server`.**
 
 ```Shell
 python Trainer.py
